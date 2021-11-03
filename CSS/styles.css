@@ -17,7 +17,6 @@ img {
 .parent-container{
   position: absolute;
   left: 50px;
-  transform:rotate(10deg);
 }
 
 /*Container Section*/
